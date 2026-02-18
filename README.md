@@ -18,7 +18,7 @@ This repository documents my progress as I build and strengthen my data science,
 Each folder corresponds to a major topic:
 - `01_Python_Numpy_Pandas`: Python coding exercises & data manipulation
 - `02_Data_Visualization`: Plotting and storytelling
-- `03_Math_for_DS`: Linear Algebra, Calculus, cheat sheets
+- `03_Machine_Learning`: Covering all machine learning algorithms and projects like Linear Regression, Logistic Regression, etc.
 - `Projects`: Real-world EDA and ML projects
 
 ## 🛠️ Tools Used
