@@ -35,7 +35,7 @@ st.title("📈 Netflix Stock Price Predictor")
 st.markdown("""
 This app predicts the **Netflix Stock Price** based on expected market and calendar features.
 
-**About this Dataset:** The underlying model is trained on Netflix Stock Price data from **5th Feb 2018 to 5th Feb 2022**.
+The underlying model is trained on Netflix Stock Price data from **5th Feb 2018 to 5th Feb 2022**.
 """)
 
 # Input form
