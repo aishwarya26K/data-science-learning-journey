@@ -1,0 +1,10 @@
+Keys in dictionary: ['model', 'scaler']
+
+Key: model
+Type: <class 'sklearn.linear_model._base.LinearRegression'>
+Params: {'copy_X': True, 'fit_intercept': True, 'n_jobs': None, 'positive': False}
+
+Key: scaler
+Type: <class 'sklearn.preprocessing._data.StandardScaler'>
+Features in scaler: ['Prev_Close', 'Prev_Return', 'MA_7', 'MA_30', 'Volatility', 'Log_Volume', 'Day_of_Week', 'Month', 'Quarter']
+Params: {'copy': True, 'with_mean': True, 'with_std': True}
