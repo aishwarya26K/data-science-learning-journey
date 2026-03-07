@@ -51,7 +51,7 @@ with col1:
     volatility = st.number_input("Volatility", min_value=0.0, value=0.02, step=0.005, format="%.4f")
 
 with col2:
-    log_volume = st.number_input("Log Volume", value=15.5, step=0.1)
+    log_volume = st.number_input("Volume", value=15.5, step=0.1)
     day_of_week = st.selectbox("Day of the Week", [0, 1, 2, 3, 4], format_func=lambda x: ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"][x])
     month = st.selectbox("Month", list(range(1, 13)), format_func=lambda x: pd.to_datetime(f"2023-{x}-01").strftime("%B"))
     quarter = st.selectbox("Quarter", [1, 2, 3, 4])
@@ -65,7 +65,7 @@ if st.button("Predict Stock Price", type="primary"):
         'MA_7': ma_7,
         'MA_30': ma_30,
         'Volatility': volatility,
-        'Log_Volume': log_volume,
+        'Volume': log_volume,
         'Day_of_Week': day_of_week,
         'Month': month,
         'Quarter': quarter

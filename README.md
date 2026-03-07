@@ -9,7 +9,13 @@ This repository documents my progress as I build and strengthen my data science,
 - Data Visualization (Matplotlib, Seaborn)
 - Mathematics for ML (Linear Algebra, Calculus)
 - Statistics & Probability
-- Machine Learning (Coming Soon!)
+- Machine Learning : 
+    - Linear Regression
+    - Gradient Descent - Mini-Batch Gradient Descent, Stochastic Gradient Descent
+    - Lasso Regression (L1 Regularization)
+    - Ridge Regression (L2 Regularization)
+    - Multiple Linear Regression
+    - Polynomial Regression
 - Deep Learning & NLP (Coming Soon!)
 - Capstone Projects
 
@@ -21,12 +27,7 @@ Each folder corresponds to a major topic:
 - `03_Machine_Learning`: Covering all machine learning algorithms and projects like Linear Regression, Logistic Regression, etc.
 - `Projects`: Real-world EDA and ML projects
 
-## 🛠️ Tools Used
-
-- Python, Jupyter Notebook
-- NumPy, Pandas, Matplotlib, Seaborn
-- Git, GitHub
-
 ## 🌱 Let’s Connect
 
 📫 LinkedIn : https://www.linkedin.com/in/aishwarya-singh12/
+📫 Kaggle : https://www.kaggle.com/aishwaryasingh777
