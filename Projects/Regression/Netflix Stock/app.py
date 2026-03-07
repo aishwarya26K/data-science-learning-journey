@@ -65,7 +65,7 @@ if st.button("Predict Stock Price", type="primary"):
         'MA_7': ma_7,
         'MA_30': ma_30,
         'Volatility': volatility,
-        'Volume': log_volume,
+        'Log_Volume': log_volume,
         'Day_of_Week': day_of_week,
         'Month': month,
         'Quarter': quarter
