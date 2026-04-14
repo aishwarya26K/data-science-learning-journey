@@ -16,6 +16,7 @@ This repository documents my progress as I build and strengthen my data science,
     - Ridge Regression (L2 Regularization)
     - Multiple Linear Regression
     - Polynomial Regression
+    - Time Series - ARIMA, Auto ARIMA, Prophet
 - Deep Learning & NLP (Coming Soon!)
 - Capstone Projects
 
