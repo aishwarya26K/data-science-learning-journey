@@ -17,6 +17,7 @@ This repository documents my progress as I build and strengthen my data science,
     - Multiple Linear Regression
     - Polynomial Regression
     - Time Series - ARIMA, Auto ARIMA, Prophet
+    - Logistic Regression
 - Deep Learning & NLP (Coming Soon!)
 - Capstone Projects
 
