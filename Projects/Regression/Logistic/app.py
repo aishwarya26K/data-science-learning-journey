@@ -32,22 +32,28 @@ st.markdown("""
         background: linear-gradient(135deg, #1E2130, #252A3D);
         border: 1px solid #2E3450;
         border-radius: 12px;
-        padding: 20px;
+        padding: 28px 16px;
         text-align: center;
         margin: 8px 0;
+        min-height: 130px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
     }
     .metric-value {
-        font-size: 2.2rem;
-        font-weight: 700;
+        font-size: 2.8rem;
+        font-weight: 800;
         color: #4C9BE8;
         margin: 0;
+        line-height: 1.1;
     }
     .metric-label {
-        font-size: 0.85rem;
+        font-size: 0.9rem;
         color: #8892A4;
-        margin: 4px 0 0 0;
+        margin: 8px 0 0 0;
         text-transform: uppercase;
-        letter-spacing: 0.08em;
+        letter-spacing: 0.1em;
+        font-weight: 600;
     }
     .metric-card.fraud .metric-value { color: #E84C4C; }
     .metric-card.good  .metric-value { color: #4CE89B; }
